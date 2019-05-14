@@ -8,17 +8,16 @@ The Motive is to build a library management system for our university where two 
  _________________________________________________________________________________________________________________________________
 Let's Take a look on the Central Library Portion. There will be:
 
-  1. Apply for ID Card Section
-          * Log In Section
-                * Three Action Can be Performed
-                      * Librarian
-                      * Student
-                      * Admin
-                            --> Librarian Section:\
-                                  --> \
-                            --> Student Section:\
-                            --> Admin Section:\
-      --> Department Wise Book View Section\
+1. Apply for ID Card Section
+  * Log In Section
+    * Three Action Can be Performed
+      * Librarian
+      * Student
+      * Admin
+        * Librarian Section:
+        * Student Section:
+        * Admin Section:
+2. Department Wise Book View Section\
       --> Resources And Journals Section\
       --> Two Search Option\
                 --> Search for Paper\
