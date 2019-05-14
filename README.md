@@ -68,7 +68,7 @@ The Motive is to build a library management system for our university where two 
  
                                                        Gantt Chart                                  
 _________________________________________________________________________________________________________________________________
-![0001](https://user-images.githubusercontent.com/30217066/57733473-69f5e880-76c1-11e9-8df7-0a5814c2a966.jpg)
+![0001](https://user-images.githubusercontent.com/30217066/57733588-ad505700-76c1-11e9-8c39-99bfef29cb4d.jpg)
 
 
 
