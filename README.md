@@ -6,14 +6,14 @@ The Motive is to build a library management system for our university where two 
 
                                                         Features
  _________________________________________________________________________________________________________________________________
-Let's Take a look on the Central Library Portion. There will be:\
+Let's Take a look on the Central Library Portion. There will be:
 
   + Apply for ID Card Section
-          + Log In Section
-                + Three Action Can be Performed
-                      + Librarian
-                      + Student
-                      + Admin
+          * Log In Section
+                * Three Action Can be Performed
+                      * Librarian
+                      * Student
+                      * Admin
                             --> Librarian Section:\
                                   --> \
                             --> Student Section:\
