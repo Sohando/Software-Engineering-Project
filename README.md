@@ -6,7 +6,7 @@ The Motive is to build a library management system for our university where two 
 
                                                         Features
  _________________________________________________________________________________________________________________________________
- ## Let's Take a look on the Central Library Portion. There will be:
+ ## Let's Take a look on the Central Library Portion.
 
   * Apply for ID Card Section
   * Log In Section
@@ -30,7 +30,10 @@ The Motive is to build a library management system for our university where two 
      * International Libraries
      * Facilities
      * Rules and Regulation
-                                                       
+
+## Let's Make It. The Student Forum.
+  * ki je likhi :kissing_Heart:
+  
                                                         Gantt Chart                                      
 ___________________________________________________________________________________________________________________________________
 ![0001](https://user-images.githubusercontent.com/30217066/57728595-1df17680-76b6-11e9-85d4-d32966a9b15c.jpg)
