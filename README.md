@@ -8,8 +8,8 @@ The Motive is to build a library management system for our university where two 
  _________________________________________________________________________________________________________________________________
  Let's Take a look on the Central Library Portion. There will be:\
  \
- markup : * Apply for ID Card Section\
-          * Log In Section\
++ Apply for ID Card Section\
+          + Log In Section\
                 * Three Action Can be Performed\
                       * Librarian\
                       --> Student\
