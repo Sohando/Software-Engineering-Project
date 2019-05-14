@@ -32,7 +32,7 @@ The Motive is to build a library management system for our university where two 
      * Rules and Regulation
 
 ## Let's Make It. The Student Forum.
-  * ki je likhi :kissing_Heart:
+  * ki je likhi :heart_eyes:
   
                                                         Gantt Chart                                      
 ___________________________________________________________________________________________________________________________________
