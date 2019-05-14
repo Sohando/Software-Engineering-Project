@@ -67,8 +67,8 @@ The Motive is to build a library management system for our university where two 
   * :heart_eyes:
  
                                                        Gantt Chart                                  
-___________________________________________________________________________________________________________________________________
-![0001](https://user-images.githubusercontent.com/30217066/57728595-1df17680-76b6-11e9-85d4-d32966a9b15c.jpg)
+_________________________________________________________________________________________________________________________________
+![0001](https://user-images.githubusercontent.com/30217066/57733473-69f5e880-76c1-11e9-8df7-0a5814c2a966.jpg)
 
 
 
