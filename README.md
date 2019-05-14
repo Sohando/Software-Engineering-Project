@@ -45,7 +45,17 @@ The Motive is to build a library management system for our university where two 
             * Edit Profile:
               * Edit Profile Will Have A Page
         * Student Section:
+          * Nofification On Due/Fine (Upcoming Last Date)  
+          * Chat 
+          * Book Wishlist
+          * My Id Card
+          * Borrow List
+          * Book Request
+          * Edit Profile
+          * History
+            * Book Request will be in queue
         * Admin Section:
+          * Somethin Went Wrong
   * Department Wise Book View Section
   * Librarian
     * Information
