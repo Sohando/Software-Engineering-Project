@@ -17,19 +17,19 @@ Let's Take a look on the Central Library Portion. There will be:
         * Librarian Section:
         * Student Section:
         * Admin Section:
-2. Department Wise Book View Section\
-      --> Resources And Journals Section\
-      --> Two Search Option\
-                --> Search for Paper\
-                --> Search for book\
-      --> Dynamic Segments:\
-                --> Welcome\
-                --> Highlight\
-                --> New Arrival\
-      --> Static Segment:\
-                --> International Libraries\
-                --> Facilities\
-                --> Rules and Regulation\
+2. Department Wise Book View Section
+  * Resources And Journals Section
+  * Two Search Option
+    * Search for Paper
+    * Search for book
+  * Dynamic Segments:
+    * Welcome
+    * Highlight
+    * New Arrival
+  * Static Segment:
+     * International Libraries
+     * Facilities
+     * Rules and Regulation
                                                        
                                                         Gantt Chart                                      
 ___________________________________________________________________________________________________________________________________
