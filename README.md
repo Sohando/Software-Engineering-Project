@@ -78,18 +78,12 @@ The Motive is to build a library management system for our university where two 
   
                                                        Tools 
  _______________________________________________________________________________________________________________________________________
- * HTML
-    * Page Layout Has Been Designed in HTML
+  * HTML
   * CSS
-    * CSS Has Been Used For All The Designing Part
   * JavaScript
-    * All The Validation Task and Animations Has Been Developed By JavaScript
   * Python
-    * All The Business Logic Has Been Implemented In Python
   * MySQL
-    * MySQL Database Has Been Used As Database for the project
   * Django
-    * Project Has Been Developed Over The Django Framework
  
                                                       Gantt Chart                                  
 _________________________________________________________________________________________________________________________________
