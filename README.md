@@ -2,7 +2,7 @@
 
                                                        Motive
 __________________________________________________________________________________________________________________________________
-The Motive is to build a library management system for our university where two section of the system will be designed. There will be one section named '<b>Central Library<b>' and another one will be named as '<b>Student Forum<b>'.
+The Motive is to build a library management system for our university where two section of the system will be designed. There will be one section named '<b>Central Library</b>' and another one will be named as '<b>Student Forum</b>'.
 
 
                                                        Features
