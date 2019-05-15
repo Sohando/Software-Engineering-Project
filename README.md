@@ -76,6 +76,20 @@ The Motive is to build a library management system for our university where two 
 ## Let's Make It. The Student Forum.
   * :heart_eyes:
  
+ ## :sleepy: Tools 
+  * HTML
+    * Page Layout Has Been Designed in HTML
+  * CSS
+    * CSS Has Been Used For All The Designing Part
+  * JavaScript
+    * All The Validation Task and Animations Has Been Developed By JavaScript
+  * Python
+    * All The Business Logic Has Been Implemented In Python
+  * MySQL
+    * MySQL Database Has Been Used As Database for the project
+  * Django
+    * Project Has Been Developed Over The Django Framework
+ 
                                                        Gantt Chart                                  
 _________________________________________________________________________________________________________________________________
 ![0001](https://user-images.githubusercontent.com/30217066/57733588-ad505700-76c1-11e9-8c39-99bfef29cb4d.jpg)
